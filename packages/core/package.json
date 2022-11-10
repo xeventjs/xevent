@@ -23,5 +23,7 @@
   "bugs": {
     "url": "https://github.com/very-eventful/ve/issues"
   },
-  "dependencies": {}
+  "publishConfig": {
+    "access": "public"
+  }
 }
